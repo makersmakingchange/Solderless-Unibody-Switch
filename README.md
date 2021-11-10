@@ -32,8 +32,11 @@ Needle nose pliers (optional)
 # COMPONENTS
 
 2x – 24-26ga. wire crimp connectors
+
 1x – 3.5 mm mono cable
+
 1x – 12 mm Tactile Switch
+
 1x – 18 inch zip tie
 
 # 3D PRINTING
