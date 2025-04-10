@@ -1,5 +1,7 @@
-# Solderless-Unibody-Switch
-design files and documentation for solderless unibody switch device from Makers Making Change
+# Solderless Unibody Switch
+This repository contains design files and documentation for the Solderless Unibody Assitive Switch from Makers Making Change. 
+
+MMC Library Listing: https://www.makersmakingchange.com/s/product/solderless-unibody-switch/01tJR000000699DYAQ
 
 # Overview
 
@@ -46,3 +48,7 @@ Needle nose pliers (optional)
 # Attribution
 
 Justin Pezzin - Makers Making Change
+
+<!-- ABOUT MMC START -->
+
+<!-- ABOUT MMC END -->
